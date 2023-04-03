@@ -3,8 +3,8 @@
 ## Description
 
 I was tasked with creating a daily planner that would have the following features: 
-//-the current day at the top of the calendar
-//-present timeblocks for standard business hours
+-the current day at the top of the calendar
+-present timeblocks for standard business hours
 -have color coded timeblocks for past, present, or future
 -when clicking on a timeblock, enter and save event details in local storage 
 -refresh the page and have saved events persist 
@@ -37,3 +37,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Tests
+https://msapiandante.github.io/work-day-scheduler/
+
+![image](https://user-images.githubusercontent.com/126308793/229398910-b34c96e2-be9f-42ef-8fb0-67ac50b12ee8.png)
