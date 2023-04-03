@@ -3,14 +3,15 @@
 ## Description
 
 I was tasked with creating a daily planner that would have the following features: 
-//-the current day at the top of the calendar
-//-present timeblocks for standard business hours
+-the current day at the top of the calendar
+-present timeblocks for standard business hours
 -have color coded timeblocks for past, present, or future
 -when clicking on a timeblock, enter and save event details in local storage 
 -refresh the page and have saved events persist 
 
 
 ## Credits
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
 
 
 ## License
